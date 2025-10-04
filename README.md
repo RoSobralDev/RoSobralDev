@@ -1,6 +1,6 @@
 ## Eai, como vai? Prazer Ronaldo 😁
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyo_nigth_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyo&nigth_icons=true)
 
 #
 
