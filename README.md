@@ -1,6 +1,12 @@
 ## Eai, como vai? Prazer Ronaldo 😁
 
-![RoSobralDev’s GitHub stats](https://github-readme-stats.vercel.app/api?username=RoSobralDev&theme=midnight-purple)
+<!-- GitHub Stats -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RoSobralDev&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&cache_seconds=86400" 
+    alt="GitHub Stats de RoSobralDev"
+  />
+</p>
 
 
 #
